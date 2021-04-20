@@ -1,0 +1,41 @@
+General: 
+
+	Platform: mobile, tablet
+	Languages: german, English
+	Theme: light
+	Offline support: no
+	Mic: no
+	Camera: yes
+	Sensoren: maybe
+	Push notifications: yes
+	Ads: yes
+	In-app-purchase: yes
+	Sound: yes
+
+Design:
+	Colors:
+	FontStyle:
+	Icons:
+	Animations:
+	Images:
+	Components
+	Paddings:
+	Layout:
+	Strings:
+	Soundicons:
+	
+App:
+	
+	Unauthorized:
+
+		SignInPage
+		SignUpPage
+		ForgotPasswordPage
+
+	Authorized:
+		HomePage
+		
+	
+	
+	
+
