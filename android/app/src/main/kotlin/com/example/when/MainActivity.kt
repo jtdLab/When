@@ -1,4 +1,4 @@
-package com.example.when
+package com.example.`when`
 
 import io.flutter.embedding.android.FlutterActivity
 
